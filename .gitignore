@@ -31,8 +31,8 @@ vendor
 
 ### Hugo ###
 # Generated files by hugo
-/public/
-/resources/_gen/
+_base/public/
+_base/resources/_gen/
 hugo_stats.json
 
 # Executable may be added to repository
@@ -41,4 +41,3 @@ hugo.darwin
 hugo.linux
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
-
